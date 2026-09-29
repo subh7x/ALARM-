@@ -1,0 +1,1 @@
+Upload ALL contents to the repository ROOT. Enable Settings → Pages → Deploy from main → /(root). Open the github.io Pages URL, not the github.com repository URL.
